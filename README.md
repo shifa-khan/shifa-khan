@@ -1,4 +1,4 @@
-### Hello there 👋
+
 
 <!--
 **shifa-khan/shifa-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,26 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shifa+Khan!;" />
 </h1>
 
-<h3 align="center">A passionate developer </h3>
+<p align="center">🌐 Exploring the intersections of software engineering, data science, and beyond, I am keen on contributing to open-source projects that make a meaningful impact. If you have a project that aligns with my interests, feel free to reach out – let's build something incredible!</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div>
+    
+        🌱 I’m currently learning Terraform, Docker
+    
+</div>
+
+## ⚡ Technologies
+
+### Languages :
+
+[![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
+
+### OS :
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+### Cloud Tools :
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+

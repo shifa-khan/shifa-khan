@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shifa+Khan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shifa!;" />
 </h1>
 
-<p align="center">🌐 Exploring the intersections of software engineering, data science, and beyond, I am keen on contributing to open-source projects that make a meaningful impact. If you have a project that aligns with my interests, feel free to reach out – let's build something incredible!</p>
+<p align="center">🌐 Exploring the intersections of software engineering, Cloud, and beyond, keen on contributing to open-source projects to make a meaningful impact.</p>
 
-<div>
+<p align="center">
+    🌱 I'm currently learning Terraform & Docker
+    <br>
+    ⚡Fun Fact: Most Productive when the world sleeps
     
-        🌱 I’m currently learning Terraform, Docker
+</p>
     
-</div>
 
 ## ⚡ Technologies
 

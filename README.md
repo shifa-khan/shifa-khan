@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### Cloud Tools :
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,ansible)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
